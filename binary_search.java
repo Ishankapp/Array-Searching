@@ -52,15 +52,7 @@ class binary_search
             }
         }
     }
-    //vdt
-//s.no   //variable     // Use
-//1      //int element //the element which needs to be searched
-//2      //int n       //the number of number in array
-//3      //int last    //the last element of range
-//4      //int first   //the first element of range    
-//5      //int mid     //the mid value of range
-//6      //int ans     //the integer stores the exact location of the element
-//7      //int flag    //to check whether element is found
+  
   
                 
                 
